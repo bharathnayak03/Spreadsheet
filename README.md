@@ -1,2 +1,0 @@
-# Spreadsheet
-Created with CodeSandbox
